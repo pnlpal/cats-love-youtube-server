@@ -1,1 +1,3 @@
-# cats-love-youtube-server
+# Cats Love YouTube
+
+Run `node ./server/server.js`
